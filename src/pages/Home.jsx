@@ -37,7 +37,7 @@ export default function Home() {
       {/* ===== FOOTER ===== */}
       <footer className="site-footer">
         <div className="container">
-          <p>© 2025 Радомир Нармухамедов — React проект по теме «Десерты»</p>
+          <p>© 2025  zhaneka — React проект по теме «Десерты»</p>
           <p>Сделано с любовью к сладкому</p>
         </div>
       </footer>
